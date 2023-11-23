@@ -65,11 +65,11 @@
     - <b>NOTE</b>: Subscription Based (390/y or 39/m)
 <h3>Resources</h3>
 
-  - LeetCode (leetcode.com/)
+  - LeetCode (www.leetcode.com/)
     - <b>NOTE</b>: Data Structure and Algorithm practice problems. Should be used in conjunction with AlgoExpert.
     - Target Goal: Be able to work through most easy and medium problems within 20-30 mins and hard problems within 30-45 mins
   
-  - Execute Program (https://www.executeprogram.com/)
+  - Execute Program (www.executeprogram.com/)
     - <b>NOTE</b>: Has a few courses focused on learning by doing. Might be worth looking into for a few things (TypeScript, Regular Expressions, SQL)
     - <b>NOTE</b>: Subscription Based (235/y or 39/m)
 

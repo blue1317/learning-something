@@ -37,23 +37,17 @@
   - ⭐ Coursera (www.coursera.org)
     - Learning How to Learn: Powerful mental tools to help you master tough subjects (www.coursera.org/learn/learning-how-to-learn)
 
-  - ⭐ HarvardX (www.edx.org/school/harvardx)
-    - CS50P - Intro to Programming with Python
-    - CS50x - Intro to Computer Science 
-    - CS50W - Web Programming with Python and JavaScript
-    - CS50 SQL - intro to Databases with SQL
+  - ⭐ Boot.Dev (www.boot.dev/)
+    - Becoming a Backend Developer
 
-  - ⭐ App Academy (www.appacademy.io/)
-    - App Academy Open (www.appacademy.io/course/app-academy-open)
-
-  - ⭐ Udemy Courses (www.udemy.com/)
-    - 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (www.udemy.com/course/100-days-of-code/)
-    - The Complete 2023 Web Development Bootcamp (www.udemy.com/course/the-complete-web-development-bootcamp/)
-    - JavaScript Algorithms and Data Structures Masterclass (www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-    - Master the Coding Interview: Data Structures + Algorithms (www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+  - ⭐ Frontend Masters Free Courses (www.frontendmasters.com/)
+    - The Last Algorithms Course You'll Need (https://frontendmasters.com/courses/algorithms/)
+    - Complete Intro to Web Development, v3 (https://frontendmasters.com/courses/web-development-v3/)
+    - Getting Started with CSS (https://frontendmasters.com/courses/getting-started-css/)
+    - Getting Started with JavaScript, v2 (https://frontendmasters.com/courses/getting-started-javascript-v2/)
+    - Getting a Software Engineering Job, v2 (https://frontendmasters.com/courses/getting-a-job-v2/)
 
   - ⭐ AlgoExpert (www.algoexpert.io/)
-    - <b>NOTE</b>: Will probably get the ultimate bundle for 69; 1 Year Access
     - AlgoExpert
     - SystemsExpert
     - MLExpert
@@ -63,6 +57,7 @@
     - <b>NOTE</b>: Multiple Courses similar to Pluralsight or LinkedIn Learning But with a focus on Frontend development and Design. I will use it after going through the initial course work to gain further mastery in Frontend Development and Design
     - <b>NOTE</b>: This is consider the 2nd half of the Curriculum 
     - <b>NOTE</b>: Subscription Based (390/y or 39/m)
+   
 <h3>Resources</h3>
 
   - LeetCode (www.leetcode.com/)
@@ -75,6 +70,18 @@
 
   - Free Code Camp (www.freecodecamp.org/learn)
     - <b>NOTE</b>: Has multiple resources and courses that can be taken.
+   
+  - HarvardX (www.edx.org/school/harvardx)
+    - CS50P - Intro to Programming with Python
+    - CS50x - Intro to Computer Science 
+    - CS50W - Web Programming with Python and JavaScript
+    - CS50 SQL - intro to Databases with SQL
+   
+  - Udemy Courses (www.udemy.com/)
+    - 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (www.udemy.com/course/100-days-of-code/)
+    - The Complete 2023 Web Development Bootcamp (www.udemy.com/course/the-complete-web-development-bootcamp/)
+    - JavaScript Algorithms and Data Structures Masterclass (www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+    - Master the Coding Interview: Data Structures + Algorithms (www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
 
   

@@ -15,7 +15,7 @@
 
   - Skill Building
     - Relearn and gain practical knowledge of CS fundamentals
-    - Become proficient in Python, JavaScript, TypeScript, C#, and the MERN Stack
+    - Become proficient in Python, JavaScript, Go
     - Become proficient with understanding and using Data Structures, Recursion, Inheritance, Polymorphism, and Algorithms
     - Become proficient with Webflow; to be able to build websites quickly and efficiently
     - Become proficient with Figma; to be able to design websites quickly and efficiently
